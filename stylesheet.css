@@ -1,0 +1,32 @@
+.container{
+    width: 1200px;
+    margin: auto;
+    background-color: aquamarine;
+}
+
+.box{
+    width: 50%;
+    margin: auto;
+    border: 2px solid;
+}
+
+.box .box_1{
+    width: 45%;
+    margin: auto;
+}
+
+.box_1 img{
+    width: 100%;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px 30px;
+}
